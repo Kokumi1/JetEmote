@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetEmote</string>
+    <string name="shared_key">JetE</string>
 </resources>
